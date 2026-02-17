@@ -26,7 +26,7 @@ export default function Navbar() {
           <Link to="/" className="hover:text-pink-300 transition">
             Home
           </Link>
-          <Link to="/" className="hover:text-pink-300 transition">
+          <Link to="/generate" className="hover:text-pink-300 transition">
             Generate
           </Link>
           <Link to="/my-generation" className="hover:text-pink-300 transition">
